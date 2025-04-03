@@ -1,0 +1,45 @@
+
+    .services {
+        text-align: center;
+        padding: 40px 20px;
+    }
+    
+    .services h1 {
+        margin-bottom: 20px;
+    }
+    
+    .services .service-cards {
+        
+        cursor: pointer;
+    }
+    
+    .services .service-card {
+        display: inline-block; /* Inline-block for horizontal layout */
+        width: 300px; /* Adjust as needed */
+        border: 1px solid #ddd;
+        padding: 20px;
+        margin: 10px; /* Add margin between cards */
+        
+        transition: all 0.3s ease;
+    }
+
+    .service-card:hover {
+        border-top: 5px solid #ff6600; /* Change color as needed */
+        transform: translateY(-5px); /* Slight lift effect */
+    }
+    
+    .services .service-card img {
+        height: 80px; /* Adjust as needed */
+        margin-bottom: 15px;
+    }
+    
+    .services .read-more {
+        margin-top: 30px;
+    }
+    
+    .services .read-more a {
+        background-color: var(--button-secondary-color);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }

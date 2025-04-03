@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #ff5733;   /* Main theme color */
+    --secondary-color: #ffa500; /* Accent color */
+    --background-color: #fff9f2; /* Light background */
+    --text-color: #333;         /* Default text color */
+    --heading-color: #222;      /* Headings */
+    /*--button-color: #e74c3c;  */
+    --button-primary-color: #e74c3c;
+    --button-secondary-color: #222;
+    --page-section-bg: #f0f0f0;
+  }
+
+  
