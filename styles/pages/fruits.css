@@ -29,15 +29,6 @@
     color: #333;
 }
 
-/*.fruits__button {
-    display: inline-block;
-    padding: 10px 20px;
-    background: var(--button-secondary-color);
-    color: white;
-    border: none;
-    cursor: pointer;
-}*/
-
 .fruits__image {
     width: 40%;
     text-align: right;

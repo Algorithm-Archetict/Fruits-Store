@@ -14,22 +14,22 @@
     }
     
     .services .service-card {
-        display: inline-block; /* Inline-block for horizontal layout */
-        width: 300px; /* Adjust as needed */
+        display: inline-block;
+        width: 300px;
         border: 1px solid #ddd;
         padding: 20px;
-        margin: 10px; /* Add margin between cards */
+        margin: 10px;
         
         transition: all 0.3s ease;
     }
 
     .service-card:hover {
-        border-top: 5px solid #ff6600; /* Change color as needed */
-        transform: translateY(-5px); /* Slight lift effect */
+        border-top: 5px solid var(--primary-color);
+        transform: translateY(-5px);
     }
     
     .services .service-card img {
-        height: 80px; /* Adjust as needed */
+        height: 80px;
         margin-bottom: 15px;
     }
     

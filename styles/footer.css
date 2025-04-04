@@ -31,7 +31,7 @@
     }
     
     .follow-us .social-icons img {
-        height: 30px; /* Adjust as needed */
+        height: 30px;
     }
     
     .follow-us .subscribe-form input[type="email"] {
@@ -42,7 +42,7 @@
     
     .follow-us .subscribe-form button {
         padding: 8px 15px;
-        background-color: var(--button-primary-color); /* Orange color */
+        background-color: var(--button-primary-color);
         color: white;
         border: none;
         cursor: pointer;
